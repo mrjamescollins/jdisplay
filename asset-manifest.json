@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mrjamescollins/jdisplay/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mrjamescollins/jdisplay/static/js/main.f2fd76a5.chunk.js",
+    "main.js.map": "/mrjamescollins/jdisplay/static/js/main.f2fd76a5.chunk.js.map",
+    "runtime-main.js": "/mrjamescollins/jdisplay/static/js/runtime-main.103d6deb.js",
+    "runtime-main.js.map": "/mrjamescollins/jdisplay/static/js/runtime-main.103d6deb.js.map",
+    "static/js/2.bf44bd17.chunk.js": "/mrjamescollins/jdisplay/static/js/2.bf44bd17.chunk.js",
+    "static/js/2.bf44bd17.chunk.js.map": "/mrjamescollins/jdisplay/static/js/2.bf44bd17.chunk.js.map",
+    "index.html": "/mrjamescollins/jdisplay/index.html",
+    "precache-manifest.bc2456c76a762b366ea18c7c3511dc17.js": "/mrjamescollins/jdisplay/precache-manifest.bc2456c76a762b366ea18c7c3511dc17.js",
+    "service-worker.js": "/mrjamescollins/jdisplay/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mrjamescollins/jdisplay/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bf44bd17.chunk.js.LICENSE.txt": "/mrjamescollins/jdisplay/static/js/2.bf44bd17.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mrjamescollins/jdisplay/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.103d6deb.js",
+    "static/js/2.bf44bd17.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f2fd76a5.chunk.js"
+  ]
+}
